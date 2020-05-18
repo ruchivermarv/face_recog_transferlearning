@@ -1,0 +1,4 @@
+The accuracy of each model based on 5 epochs can be stated as:
+ VGG16: 75.6%
+ MOBILENET: 79.80%
+ RESNET50: 82.90%
